@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      SOFTWARE DEVELOPER
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Grounded and solution-oriented Software Engineer with a wide variety of professional experiences. Adept at motivating self and others. Passionate about efficiently developing and end-to-end testing web apps.
     actions:
       - label: Contact Me
         url: /contact
